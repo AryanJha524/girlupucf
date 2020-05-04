@@ -1,12 +1,12 @@
-#upcoming_events {
+#officer_intro {
   text-align: center;
-  padding: 40px;
-  background: url(../../assets/img/PegasusBackground.jpg) no-repeat;
+  padding: 100px;
+  background: url(../../assets/img/OfficeBuilding.jpg) no-repeat;
   background-size: cover;
 }
 
 @media (max-width: 768px) {
-  #upcoming_events {
+  #officer_intro {
     padding: 20px;
   }
 }
@@ -39,7 +39,7 @@ body {
   margin-bottom: 30px;
 }
 
-#welcome {
+#welcome_officers {
   max-width: 800px;
   font-size: 20px;
   margin: 0 auto;
