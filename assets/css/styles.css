@@ -125,3 +125,10 @@ img {
   width: 100%;
 }
 
+.card-text:last-child {
+  font-size: smaller;
+}
+
+#Sec_img {
+}
+

@@ -166,3 +166,27 @@ p {
   padding-right: 10px;
 }
 
+#pres_quote {
+  font-size: small;
+  background-color: rgb(241,154,154, 0.65);
+}
+
+#sec_quote {
+  font-size: small;
+  background-color: rgb(241,154,154, 0.65);
+}
+
+.card-text:last-child {
+  font-size: smaller;
+}
+
+#event_quote {
+  font-size: small;
+  background-color: rgb(241,154,154, 0.65);
+}
+
+#market_quote {
+  font-size: small;
+  background-color: rgb(241,154,154, 0.65);
+}
+
