@@ -125,10 +125,21 @@ img {
   width: 100%;
 }
 
+#board_img {
+}
+
 .card-text:last-child {
   font-size: smaller;
 }
 
-#Sec_img {
+img {
+  border-radius: 50%;
+  max-height: 100px;
+  min-height: 99px;
+}
+
+#girl_up_logo {
+  border-radius: 50%;
+  max-width: 100px;
 }
 
