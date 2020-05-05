@@ -112,3 +112,57 @@ div.social-links {
   margin-bottom: 5px;
 }
 
+#welcome_header {
+  color: pink;
+}
+
+@media (min-width: 768px) {
+  #big_banner {
+    text-align: center;
+  }
+}
+
+#welcome {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#list {
+  max-width: 600px;
+  margin: 10px 0 15px;
+  text-align: center;
+  padding-left: 50px;
+}
+
+.list-group {
+  color: rgb(255,192,203);
+}
+
+a {
+  color: rgb(241,123,179);
+}
+
+.card-header:first-child {
+  background-color: rgb(232,216,175);
+  padding-bottom: 30px;
+}
+
+#accordion-1 {
+  text-align: center;
+  align-items: center;
+}
+
+#list {
+  align-items: center;
+}
+
+.spinner-grow.spinner-grow-sm {
+  color: pink;
+}
+
+p {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
