@@ -1,14 +1,7 @@
 #officer_intro {
   text-align: center;
   padding: 100px;
-  background: url(../../assets/img/OfficeBuilding.jpg) no-repeat;
   background-size: cover;
-}
-
-@media (max-width: 768px) {
-  #officer_intro {
-    padding: 20px;
-  }
 }
 
 #upcoming_events {
@@ -141,5 +134,12 @@ img {
 #girl_up_logo {
   border-radius: 50%;
   max-width: 100px;
+}
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
 }
 

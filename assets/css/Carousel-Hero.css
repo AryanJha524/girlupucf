@@ -41,3 +41,11 @@ p.hero-subtitle {
   font-size: smaller;
 }
 
+.card-img-overlay {
+  padding-top: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
