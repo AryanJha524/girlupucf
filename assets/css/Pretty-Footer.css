@@ -119,12 +119,14 @@ div.social-links {
 @media (min-width: 768px) {
   #big_banner {
     text-align: center;
+    align-items: center;
   }
 }
 
 #welcome {
   padding-top: 30px;
   padding-bottom: 30px;
+  align-items: center;
 }
 
 #list {

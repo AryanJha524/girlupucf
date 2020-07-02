@@ -49,3 +49,11 @@ div {
   margin-bottom: 10px;
 }
 
+#card-p {
+  max-height: 100px;
+}
+
+#card-div {
+  min-height: 100px;
+}
+

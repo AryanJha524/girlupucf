@@ -101,6 +101,7 @@ img {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  height: 200px;
 }
 
 .col {
@@ -141,5 +142,18 @@ img {
   flex: 1 1 auto;
   min-height: 1px;
   padding: 1.25rem;
+}
+
+#events_card {
+  height: 180px;
+}
+
+#card-div {
+  max-height: 120px;
+}
+
+#space {
+  max-height: 5px;
+  margin-bottom: 1px;
 }
 
